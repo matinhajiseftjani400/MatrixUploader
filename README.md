@@ -66,4 +66,5 @@ RemoveHandler .php .phtml .php3 .php4 .php5 .php7
 
 ---
 
-🛡️ Developed By Matin(http://matin-technology.ir/)
+🛡️ Developed By [Matin](http://matin-technology.ir/)
+
