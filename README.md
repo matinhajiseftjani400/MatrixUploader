@@ -46,7 +46,7 @@ RemoveHandler .php .phtml .php3 .php4 .php5 .php7
 
 1. این پروژه را کلون یا دانلود کنید:
    ```bash
-   git clone https://github.com/USERNAME/MatrixUpload.git
+   git clone https://github.com/matinhajiseftjani400/MatrixUpload.git
    ```
 2. پروژه را روی یک سرور PHP (مثل XAMPP یا هاست واقعی) قرار دهید.
 3. مطمئن شوید پوشه `uploads/` وجود دارد و قابل نوشتن است (CHMOD 0777 اگر لوکال هستید).
@@ -67,5 +67,6 @@ RemoveHandler .php .phtml .php3 .php4 .php5 .php7
 ---
 
 🛡️ Developed By [Matin](http://matin-technology.ir/)
+
 
 
