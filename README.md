@@ -1,4 +1,4 @@
-# MatrixUpload
+# MatrixUploader
 
 A secure and lightweight file uploader with admin panel, file-type filtering, upload progress, and animated Matrix-style background — fully RTL and Farsi-supported.
 
@@ -67,4 +67,5 @@ RemoveHandler .php .phtml .php3 .php4 .php5 .php7
 ---
 
 🛡️ Developed By [Matin](http://matin-technology.ir/)
+
 
